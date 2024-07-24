@@ -1,2 +1,3 @@
 # Flask-Web-FaceDetection
- demo of eys and face detaction using flask and opencv library
+
+OpenCV Face And Eye Detection In Flask Web Framework

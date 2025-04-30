@@ -29,7 +29,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Flask-Web-FaceDetection.git
+git clone https://github.com/ykbeladiya/Flask-Web-FaceDetection.git
 cd Flask-Web-FaceDetection
 ```
 
